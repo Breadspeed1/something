@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+
+<html>
+<head><h1>THE JACK WEBSITE</h1></head>
+
+<body>
+<h3>Hi jack</h3>
+</body>
+
+</html>
